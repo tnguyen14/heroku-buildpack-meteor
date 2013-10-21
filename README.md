@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-% heroku create --stack cedar --buildpack https://github.com/jordansissel/heroku-buildpack-meteor.git
+% heroku create --stack cedar --buildpack https://github.com/tnguyen14/heroku-buildpack-meteor.git
 ```
 
 ## Example
@@ -32,7 +32,7 @@ Initialized empty Git repository in /tmp/a/wordplay/.git/
 Create your heroku app
 
 ```
-% heroku create --stack cedar --buildpack https://github.com/jordansissel/heroku-buildpack-meteor.git
+% heroku create --stack cedar --buildpack https://github.com/tnguyen14/heroku-buildpack-meteor.git
 ```
 
 Configure your ROOT_URL setting
